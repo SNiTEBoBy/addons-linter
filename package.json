@@ -73,7 +73,7 @@
     "upath": "1.2.0",
     "whatwg-url": "8.2.1",
     "yargs": "15.4.1",
-    "yauzl": "2.10.0"
+    "yauzl": "3.2.1"
   },
   "devDependencies": {
     "@babel/cli": "7.10.5",
